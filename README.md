@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **python**
+- 🔭 I’m currently learning **python**
 
-- 🌱 I’m currently learning **Web Devlopment**
+- 🌱 I’m currently working on **Web Devlopment**
 
 - 🤝 I’m looking for help with **my project**
 
