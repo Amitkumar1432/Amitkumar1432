@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Web Devlopment**
 
-- 👯 I’m looking to collaborate on **java**
-
 - 🤝 I’m looking for help with **my project**
 
 - 📫 How to reach me **kumaramit170121@gmail.com**
