@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kumaramit170121@gmail.com**
 
-- ⚡ Fun fact **i am very fatty**
+- ⚡ Fun fact **i am very funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
