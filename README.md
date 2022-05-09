@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **my project**
 
-- 📫 How to reach me **kumaramit170121@gmail.com**
+- 📫 How to reach me **amitkumar170121@gmail.com**
 
 - ⚡ Fun fact **i am very funny**
 
